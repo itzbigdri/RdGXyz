@@ -1,6 +1,7 @@
 ## Olá! Eu sou o RSotero✌️
 
 ![RSotero GitHub stats](https://github-readme-stats.vercel.app/api?username=RdGXyz&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RdGXyz&layout=compact)
 
 ## Aprendendo✍️
 <div style="display: inline_block">
