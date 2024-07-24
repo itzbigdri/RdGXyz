@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rodrigo Sotero✌️
+## Olá! Eu sou Rodrigo Sotero✌️
 
 - Estudante do IFRN 🎓
 - Cursando Informática para a Internet 🌐
