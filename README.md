@@ -1,6 +1,6 @@
 ## Olá! Eu sou Rodrigo Sotero✌️
 
-- Estudante do IFRN 🎓
+- Estudante do IFRN ZN🎓
 - Cursando Informática para a Internet 🌐
 - Apaixonado por tecnologia 💻
 
