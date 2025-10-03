@@ -4,7 +4,7 @@
 - Cursando Informática para a Internet 🌐
 - Apaixonado por tecnologia 💻
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RdGXyz&show_icons=true&theme=synthwave)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzbigdri&show_icons=true&theme=synthwave)
 
 
 ## Aprendendo✍️
